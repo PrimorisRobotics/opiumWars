@@ -1,0 +1,13 @@
+#navbar{
+  width: 300px;
+  height: 100px;
+  font-family: ;
+  /* INSERT FONT HERE!
+  - lele */
+  background-color: orange;
+  margin-left: 20px;
+  display: inline-block;
+}
+#navbar:hover{
+  background-color: yellow;
+}
