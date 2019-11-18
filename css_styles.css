@@ -1,7 +1,13 @@
 #nav_bar{
-  width: ;
-  height: ;
+  width: 300px;
+  height: 100px;
   font-family: ;
-  background-color: ;
+  /* INSERT FONT HERE!
+  - lele */
+  background-color: orange;
+  margin-left: 20px;
   display: inline-block;
+}
+#nav_bar:hover{
+  background-color: yellow;
 }
