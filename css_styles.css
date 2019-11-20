@@ -1,26 +1,30 @@
 .all_container{
 	font-family: times;
+  color: white;
+  height: 80ex;
+  background-color: midnightblue;
 	/* this is only an example you can change this*/
 }
 .navbar{
   width: 375px;
   height: 75px;
-  background-color: orange;
+  background-color: #E62600;
   margin-left: 20px;
   margin-top: 30px;
   display: inline-block;
   font-size: 30px;
   text-align: center;
   color: black;
+  padding-top: 20px;
 }
 .navbar:hover{
-  background-color: yellow;
+  background-color: #33FF33;
 }
 .title{
 	text-align: center;
 	font-size: 50px;
 }
-.britansview{
+.britainsview{
 	width: 500px;
 	margin-right: 50px;
 	margin-left: 40px;
