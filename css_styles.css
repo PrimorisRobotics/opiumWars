@@ -1,6 +1,6 @@
 .all_container{
 	font-family: times;
-  color: white;
+  color: yellow;
   height: 80ex;
   background-color: midnightblue;
 	/* this is only an example you can change this*/
@@ -14,11 +14,12 @@
   display: inline-block;
   font-size: 30px;
   text-align: center;
-  color: black;
+  color: gold;
   padding-top: 20px;
 }
 .navbar:hover{
   background-color: #33FF33;
+  color: purple;
 }
 .title{
 	text-align: center;
@@ -31,4 +32,16 @@
 }
 .chinasview{
 	width: 650px;
+}
+.pic{
+  width: 400px;
+}
+.aboutauthors{
+  width: 300px;
+}
+.source-link{
+  color: green;
+}
+.sources{
+  width: 200px;
 }
