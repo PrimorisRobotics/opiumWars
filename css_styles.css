@@ -1,0 +1,31 @@
+.all_container{
+	font-family: times;
+	/* this is only an example you can change this*/
+}
+.navbar{
+  width: 375px;
+  height: 75px;
+  background-color: orange;
+  margin-left: 20px;
+  margin-top: 30px;
+  display: inline-block;
+  font-size: 30px;
+  text-align: center;
+  color: black;
+  padding-top: 20px;
+}
+.navbar:hover{
+  background-color: yellow;
+}
+.title{
+	text-align: center;
+	font-size: 50px;
+}
+.britainsview{
+	width: 500px;
+	margin-right: 50px;
+	margin-left: 40px;
+}
+.chinasview{
+	width: 650px;
+}
