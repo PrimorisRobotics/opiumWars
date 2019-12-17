@@ -1,8 +1,9 @@
 .all_container{
 	font-family: times;
-  color: yellow;
+  color: #df972A;
   height: 80ex;
-  background-color: midnightblue;
+  background-color: #312851;
+  height: 700px;
 }
 .navbar{
   width: 375px;
@@ -23,17 +24,12 @@
 .title{
 	text-align: center;
 	font-size: 50px;
+  color: #E9A134;
 }
-.britainsview{
+.column{
 	width: 500px;
 	margin-right: 50px;
 	margin-left: 40px;
-}
-.chinasview{
-	width: 650px;
-}
-.pic{
-  width: 400px;
 }
 .aboutauthors{
   width: 300px;
@@ -41,12 +37,9 @@
 .source-link{
   color: green;
 }
-.sources{
-  width: 200px;
-}
 .link{
   color: green;
 }
 .link:hover{
-  color: purple;
+  color: magenta;
 }
