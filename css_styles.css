@@ -1,9 +1,8 @@
 .all_container{
 	font-family: times;
   color: #df972A;
-  height: 80ex;
   background-color: #312851;
-  height: 700px;
+  height: 100%;
 }
 .navbar{
   width: 375px;
@@ -19,7 +18,7 @@
 }
 .navbar:hover{
   background-color: #33FF33;
-  color: purple;
+  color: #505050;
 }
 .title{
 	text-align: center;
