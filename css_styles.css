@@ -17,8 +17,8 @@
   padding-top: 20px;
 }
 .navbar:hover{
-  background-color: #33FF33;
-  color: #505050;
+  background-color: #FFDDCC;
+  color: #3c5cff;
 }
 .title{
 	text-align: center;
@@ -33,12 +33,9 @@
 .aboutauthors{
   width: 300px;
 }
-.source-link{
-  color: green;
-}
 .link{
-  color: green;
+  color: #28fc82;
 }
 .link:hover{
-  color: magenta;
+  color: #ff00ff;
 }
