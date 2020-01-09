@@ -1,7 +1,8 @@
 .all_container{
 	font-family: times;
   color: #df972A;
-  background-color: #312851;
+  background-color: #371837;
+  /*   312851   555555   */
   height: 100%;
 }
 .navbar{
@@ -37,5 +38,7 @@
   color: #54ff9f;
 }
 .link:hover{
-  color: #fa49ef;
+  color: #33c9a0;
 }
+/*   fa49ef    */
+
